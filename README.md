@@ -35,9 +35,9 @@ You can scrape the data from the very search URL you need, using the dynamic `--
 
 * 25 listings from the first page
 * 3 attributes per listing
-* elegant @class structure
-* dynamic --url argument
-* data exported in structure .csv file
+* elegant `@class` structure
+* dynamic `--url` argument
+* data exported in structure `.csv` file
 
 `seloger-listings-scraper-tutorial` supports Python 3.9.12.
 
