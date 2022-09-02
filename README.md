@@ -65,7 +65,7 @@ This Python script has been written for demo purposes only. You can **only colle
 
 Furthermore, in order to bypass datadome limitations, you’ll need to go on the home page https://www.seloger.com, open the Network tab of your Chrome dev console, and collect headers which led to the 200 request.
 
-If you need extended ressources on this topic, feel free to check our step-by-step tutorial: #TODO.
+If you need extended ressources on this topic, feel free to check our step-by-step tutorial: https://lobstr.io/blog/comment-scraper-seloger-avec-python-et-requests.
 
 Besides, after a certain amount of requests, **you will face consistent bot-mitigation**. The website will possibly enter into an endless loop of captcha challenges. No scalability promise of any kind here.
 
